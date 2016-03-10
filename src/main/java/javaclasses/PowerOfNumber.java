@@ -9,6 +9,7 @@ public class PowerOfNumber {
     static double n = -1;
 
     public static void main(String arg[]) {
+
         System.out.println("power equals " + pow(x, n));
     }
 
